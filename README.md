@@ -8,7 +8,7 @@ Bu o'yin foydalanuvchiga raqamli plitkalarni surish orqali bir xil qiymatdagi pl
 
 ## Muallif
 
-*   **Dasturchi:** Qodirova Sarvara
+*   **Dasturchi:** Vafoyev isobek
 *   **Asl "2048" o'yini muallifi (agar clone qilingan bo'lsa):** Lukasz Jakowski (Ushbu loyiha uning g'oyasiga asoslangan)
 *   **Ishlab chiqilgan sana (taxminan):** 2023-2024 yillar
 
